@@ -17,6 +17,18 @@ const FinalMarinaSPA = () => {
 
   return (
     <div>
+
+        <Head>
+            <title>
+                Marina Arsenopoulou - Kentro Diamesolavisis
+            </title>
+            <meta
+                name="description"
+                content="Διαπιστευμένη Διαμεσολαβήτρια στην Ελλάδα και στο Ηνωμένο Βασίλειο. Δικηγόρος με ευρεία εμπειρία, μέλος του Δικηγορικού Συλλόγου Λάρισας. Εκπαιδεύτρια Διαμεσολαβητών στην Ελλάδα και την Κύπρο."
+                key="desc"
+            />
+        </Head>
+
         <SEO title="Marina Arsenopoulou - Kentro Diamesolavisis" />
         <main className="page-wrapper">
         <CustomHeader btnStyle="btn-small" HeaderSTyle="header-not-transparent" />
