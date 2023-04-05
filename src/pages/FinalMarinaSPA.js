@@ -1,16 +1,16 @@
 import React from 'react';
-import CustomHeader from '../Components/CustomHeader';
-import SEO from "../Components/SEO";
-import Separator from "../Components/Separator";
-import ServiceOne from "../Components/ServiceOne";
-import SectionTitle from "../Components/SectionTitle";
-import SlipFour from "../Components/SlipFour";
-import SlpitOne from "../Components/SlpitOne";
-import SplitOneTwo from "../Components/SplitOneTwo";
-import Contact from '../Components/Contact';
-import AboutTwo from "../Components/AboutTwo";
-import FooterCustom from '../Components/FooterCustom';
-import Gallery from '../Components/Gallery';
+import CustomHeader from '../components/CustomHeader';
+import SEO from "../components/SEO";
+import Separator from "../components/Separator";
+import ServiceOne from "../components/ServiceOne";
+import SectionTitle from "../components/SectionTitle";
+import SlipFour from "../components/SlipFour";
+import SlpitOne from "../components/SlpitOne";
+import SplitOneTwo from "../components/SplitOneTwo";
+import Contact from '../components/Contact';
+import AboutTwo from "../components/AboutTwo";
+import FooterCustom from '../components/FooterCustom';
+import Gallery from '../components/Gallery';
 import { FiCheck } from "react-icons/fi";
 
 const FinalMarinaSPA = () => {
