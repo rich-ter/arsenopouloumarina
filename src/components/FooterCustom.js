@@ -1,5 +1,4 @@
 import React from 'react';
-// import ScrollTop from "./ScrollTop";
 import { FiGithub, FiInstagram } from "react-icons/fi";
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
@@ -68,7 +67,6 @@ const FooterTwo = () => {
                     </div>
                 </div>
             </footer>
-            {/* <ScrollTop /> */}
         </>
     )
 }
