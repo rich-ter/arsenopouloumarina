@@ -12,6 +12,7 @@ import AboutTwo from "../components/AboutTwo";
 import FooterCustom from '../components/FooterCustom';
 import Gallery from '../components/Gallery';
 import { FiCheck } from "react-icons/fi";
+import {Head } from 'next/document'
 
 const FinalMarinaSPA = () => {
 
