@@ -6,44 +6,44 @@ import GalleryOne from "./GalleryOne";
 const PopupData = [
     {
         id: "01",
-        image: "assets/images/compressed/office-1.JPG",
+        image: "assets/images/compressed/office-1.jpg",
         popupLink: [
-            'assets/imagescompressed/office-1.JPG',
+            'assets/imagescompressed/office-1.jpg',
         ],
     },
     {
         id: "02",
-        image: "assets/images/compressed/office-2.JPG",
+        image: "assets/images/compressed/office-2.jpg",
         popupLink: [
-            'assets/images/compressed/office-2.JPG',
+            'assets/images/compressed/office-2.jpg',
         ],
     },
     {
         id: "03",
-        image: "assets/images/compressed/office-3.JPG",
+        image: "assets/images/compressed/office-3.jpg",
         popupLink: [
-            'assets/images/compressed/office-3.JPG',
+            'assets/images/compressed/office-3.jpg',
         ],
     },
     {
         id: "04",
-        image: "assets/images/compressed/office-4.JPG",
+        image: "assets/images/compressed/office-4.jpg",
         popupLink: [
-            'assets/images/compressed/office-4.JPG',
+            'assets/images/compressed/office-4.jpg',
         ],
     },
     {
         id: "05",
-        image: "assets/images/compressed/office-5.JPG",
+        image: "assets/images/compressed/office-5.jpg",
         popupLink: [
-            'assets/images/compressed/office-5.JPG',
+            'assets/images/compressed/office-5.jpg',
         ],
     },
     {
         id: "06",
-        image: "assets/images/compressed/office-6.JPG",
+        image: "assets/images/compressed/office-6.jpg",
         popupLink: [
-            'assets/images/compressed/office-6.JPG',
+            'assets/images/compressed/office-6.jpg',
         ],
     },
 ]
