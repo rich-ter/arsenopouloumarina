@@ -66,7 +66,7 @@ H συνεχής ενασχόλησή μας τόσο με τη διαμεσολ
                     </div>
                     <div className="order-1 order-lg-2 col-lg-12 col-xl-6 col-12">
                         <div className="thumbnail">
-                            <img src="assets/images/compressed/why-us.JPG" alt="Why us" />
+                            <img src="assets/images/compressed/why-us.jpg" alt="Why us" />
                         </div>
                     </div>
                 </div>
