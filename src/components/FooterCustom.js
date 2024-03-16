@@ -54,11 +54,7 @@ const FooterTwo = () => {
                                 <div className="rn-footer-widget">
                                     <h4 className="title">Designed, Developed & Powered by</h4>
                                     <div className="inner">
-                                        <h6 className="subtitle">Richterlabs</h6>
-                                        <ul className="social-icon social-default justify-content-start">
-                                            {/* <li><Link to="https://github.com/richterlabs" target='_blank'><FiGithub /></Link></li>
-                                            <li><Link to="instagram.com/" target='_blank'><FiInstagram /></Link></li> */}
-                                        </ul>
+                                        <a href="www.richterlabs.io" target="_blank"><img src="assets/images/compressed/richterlabs-logo-inline.png" alt="logo for richterlabs softwared development agency"/></a>
                                     </div>
                                 </div>
                             </div>
